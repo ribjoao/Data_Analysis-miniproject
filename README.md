@@ -13,6 +13,6 @@ Dado os requisitos do miniProjeto, a proposta de solução abrange:
 2. Realizar consultas SQL para analisar os dados históricos de 2022.
 3. Visualizar painéis dinâmicos contendo os dados coletados em dashboard do Power BI
 ___
-##### Resumo do projeto (PDF): link
+##### Resumo do projeto (PDF): ![link](https://github.com/ribjoao/Data_Analysis-miniproject/blob/master/docs/DataAnalysis-miniproject_PizzaWest.pdf)
 
 ##### A descrição detalhada do miniProjeto e implementação encontra-se [nesse link](https://ribjoao.github.io/projects/data-analysis-projeto-2)**
